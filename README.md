@@ -33,7 +33,7 @@ Get started by setting up your environment:
    ```
 
 4. **Set up PostgreSQL environment variables:**
-   Before running the Jupyter Notebook, ensure that the PostgreSQL credentials are correctly set up:
+   Before running the Jupyter Notebook, ensure that the PostgreSQL credentials are correctly set up: 
    ```bash
    export PGHOST=your_host
    export PGDATABASE=your_database
@@ -85,10 +85,6 @@ We welcome contributions! Here's how you can help:
    git push origin feature-branch
    ```
 5. **Open a Pull Request** and we’ll review your changes.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
