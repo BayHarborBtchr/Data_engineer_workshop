@@ -1,5 +1,4 @@
-# Data_engineer_workshop
-
+Here's the final version of the `README.md` file with the requested GIF added at the end:
 
 ```markdown
 # 🚀 Data Engineer Workshop
@@ -52,8 +51,12 @@ This workshop leverages several key Python libraries:
 
 - **Pandas**: For powerful data manipulation and analysis.
 - **NumPy**: Provides support for large, multi-dimensional arrays and matrices.
+- **Matplotlib**: Basic plotting library for visualizing data.
+- **Seaborn**: Statistical data visualization built on top of Matplotlib.
+- **SciPy**: For advanced scientific and technical computing.
 - **SQLAlchemy**: A toolkit for SQL and database management.
-- **Jupyter**: Interactive computing environment for creating and sharing code.
+- **Psycopg2**: PostgreSQL adapter for Python, enabling database connectivity.
+- **Jupyter Notebook**: Interactive computing environment for creating and sharing code.
 
 ## 🤝 Contributing
 
@@ -81,5 +84,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Made with ❤️ by [BayHarborBtchr](https://github.com/BayHarborBtchr)
-```
 
+![Dexter GIF](./tumblr_lux2mbKJmn1qbj99lo1_500.gif) <!-- Ensure the gif is in the repository -->
+```
