@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 Data Engineer Workshop
 
 Welcome to the **Data Engineer Workshop**! This repository is designed to help you dive into the world of data engineering, focusing on data processing, analysis, and engineering tasks using Python and powerful tools.
