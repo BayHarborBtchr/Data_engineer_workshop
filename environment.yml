@@ -1,4 +1,4 @@
-name: workshop
+name: data_engineer_workshop
 channels:
   - conda-forge
   - defaults
