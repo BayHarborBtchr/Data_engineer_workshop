@@ -77,12 +77,9 @@ We welcome contributions! Here's how you can help:
    ```
 5. **Open a Pull Request** and we’ll review your changes.
 
-## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+---![tumblr_lux2mbKJmn1qbj99lo1_500](https://github.com/user-attachments/assets/39dfcece-8818-470f-a3d2-5aa7940d4cc7)
 
----
+ by [BayHarborBtchr](https://github.com/BayHarborBtchr)
 
-Made with ❤️ by [BayHarborBtchr](https://github.com/BayHarborBtchr)
 
-![Dexter GIF](./tumblr_lux2mbKJmn1qbj99lo1_500.gif) 
