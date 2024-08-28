@@ -1,4 +1,3 @@
-Here's the final version of the `README.md` file with the requested GIF added at the end:
 
 ```markdown
 # 🚀 Data Engineer Workshop
@@ -25,12 +24,22 @@ Get started by setting up your environment:
 
 2. **Create the conda environment:**
    ```bash
-   conda env create -f environment.yml -n data_engineer_workshop
+   conda env create -f environment.yml
    ```
 
 3. **Activate the environment:**
    ```bash
    conda activate data_engineer_workshop
+   ```
+
+4. **Set up PostgreSQL environment variables:**
+   Before running the Jupyter Notebook, ensure that the PostgreSQL credentials are correctly set up:
+   ```bash
+   export PGHOST=your_host
+   export PGDATABASE=your_database
+   export PGUSER=your_username
+   export PGPASSWORD=your_password
+   export PGPORT=your_port
    ```
 
 ## 🚀 Usage
@@ -77,9 +86,17 @@ We welcome contributions! Here's how you can help:
    ```
 5. **Open a Pull Request** and we’ll review your changes.
 
+## 📜 License
 
----![tumblr_lux2mbKJmn1qbj99lo1_500](https://github.com/user-attachments/assets/39dfcece-8818-470f-a3d2-5aa7940d4cc7)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
- by [BayHarborBtchr](https://github.com/BayHarborBtchr)
+---
+
+Made by [BayHarborBtchr](https://github.com/BayHarborBtchr)
+
+
+![tumblr_lux2mbKJmn1qbj99lo1_500](https://github.com/user-attachments/assets/39dfcece-8818-470f-a3d2-5aa7940d4cc7)
+
+
 
 
