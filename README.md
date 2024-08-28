@@ -85,5 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Made with ❤️ by [BayHarborBtchr](https://github.com/BayHarborBtchr)
 
-![Dexter GIF](./tumblr_lux2mbKJmn1qbj99lo1_500.gif) <!-- Ensure the gif is in the repository -->
-```
+![Dexter GIF](./tumblr_lux2mbKJmn1qbj99lo1_500.gif) 
