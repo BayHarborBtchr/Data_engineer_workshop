@@ -25,7 +25,7 @@ Get started by setting up your environment:
 
 2. **Create the conda environment:**
    ```bash
-   conda env create -f environment.yml
+   conda env create -f environment.yml -n data_engineer_workshop
    ```
 
 3. **Activate the environment:**
